@@ -1,4 +1,4 @@
-⚠️ DEPRECATED, NO LONGER MAINTAINED
+🌱 MAINTAINING BY HESSE HUANG
 
 ![ImagePicker](https://github.com/hyperoslo/ImagePicker/blob/master/Resources/ImagePickerPresentation.png)
 
