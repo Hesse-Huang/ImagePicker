@@ -1,14 +1,11 @@
 PODS:
-  - Cache (4.0.2):
-    - SwiftHash (~> 2.0.0)
-  - Hue (3.0.0)
+  - Cache (5.2.0)
+  - Hue (5.0.0)
   - ImagePicker (3.1.0)
-  - Imaginary (3.0.0):
-    - Cache (~> 4.0)
-  - Lightbox (2.0.0):
-    - Hue (~> 3.0)
-    - Imaginary (~> 3.0)
-  - SwiftHash (2.0.0)
+  - Imaginary (4.2.0):
+    - Cache (~> 5.0)
+  - Lightbox (2.3.0):
+    - Imaginary (~> 4.0)
 
 DEPENDENCIES:
   - Hue
@@ -21,20 +18,18 @@ SPEC REPOS:
     - Hue
     - Imaginary
     - Lightbox
-    - SwiftHash
 
 EXTERNAL SOURCES:
   ImagePicker:
     :path: "../../"
 
 SPEC CHECKSUMS:
-  Cache: 363b6899cee63c82ccbd291e64a6c202abc17a88
-  Hue: b8fe1e43eef13631331eebecb2198b68e2622f95
+  Cache: 807c5d86d01a177f06ede9865add3aea269bbfd4
+  Hue: c129cb67be7d093a82bbbc30ce8a96757bf6f37a
   ImagePicker: db1fd7626337b2577c523bef5f499bbbe5a37079
-  Imaginary: 2765d293d425cbed3b07fa11642554cbaebe913d
-  Lightbox: 83ec9f4aba4c79fc7bb9bcd263386df9969f09bb
-  SwiftHash: d2e09b13495447178cdfb8e46e54a5c46f15f5a9
+  Imaginary: dae33d06dbc2ada22f98afef5eb45cc061311a2c
+  Lightbox: d317750e4132bfb871a5307cfe0a2c7d6a583c65
 
-PODFILE CHECKSUM: 702c1e0df019fe44ce740e86904dd384d55aefbe
+PODFILE CHECKSUM: 32b7472b2ec961c24e4fd3c9cd7b4ff74456f3f1
 
 COCOAPODS: 1.9.1
